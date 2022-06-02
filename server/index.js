@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
   res.send('Express + TypeScript Server');
 });
 
-app.get('/message', (req, res) => {
+app.get('/api/message', (req, res) => {
   res.send('HELLO WORLD!');
 });
 

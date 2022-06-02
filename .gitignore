@@ -105,3 +105,4 @@ dist
 
 .idea/
 heroku-fullstack-js.iml
+server/public/
