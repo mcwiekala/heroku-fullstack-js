@@ -1,4 +1,7 @@
 {
+  "name": "heroku-fullstack-js",
+  "version": "0.0.1",
+  "author": "Michal Cwiekala",
   "scripts": {
     "install": "npm run install:client && npm run install:server",
     "install:client": "(cd ./client && npm install)",
